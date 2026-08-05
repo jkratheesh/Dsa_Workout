@@ -9,5 +9,4 @@ class Solution:
                 max_profit = price - min_price
         
         
-        
         return max_profit
